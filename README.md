@@ -18,7 +18,6 @@ Get started with Deepnote in seconds (this will convert the notebook and create 
 ```bash
 npx @deepnote/convert notebook.ipynb 
 ```
----
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
