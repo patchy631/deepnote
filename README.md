@@ -13,10 +13,10 @@
   <h1>Deepnote is a data notebook for the AI era</h1>
 </div>
 
-Get started with Deepnote in seconds:
+Get started with Deepnote in seconds (this will convert the notebook and create notebook.deepnote):
 
 ```bash
-npx @deepnote/convert notebook.ipynb # This will convert the notebook and create notebook.deepnote
+npx @deepnote/convert notebook.ipynb 
 ```
 ---
 
