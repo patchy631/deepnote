@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <h1>Deepnote is a data notebook for the AI era</h1>
+  <h3>Deepnote is a data notebook for the AI era</h3>
 </div>
 
 Get started with Deepnote in seconds (this will convert the notebook and create notebook.deepnote):
