@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- <img src="assets/deepnote-logo.png" alt="Deepnote logo full dark" width="400"/> -->
+<!-- <img src="assets/deepnote-logo.png" alt="Deepnote logo full dark" width="10"/> -->
 ![Deepnote logo full dark](/assets/deepnote-cover-image.png)
 
 [![CI](https://github.com/deepnote/deepnote/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/deepnote/deepnote/actions/workflows/ci.yml)
