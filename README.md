@@ -1,16 +1,17 @@
 <div align="center">
 
-<!-- <img src="assets/deepnote-logo.png" alt="Deepnote logo full dark" width="10"/> -->
-![Deepnote logo full dark](/assets/deepnote-cover-image.png)
+<div align="center">
+  <img src="assets/deepnote-cover-image.png" alt="Deepnote" width="60%" />
+</div>
 
 [![CI](https://github.com/deepnote/deepnote/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/deepnote/deepnote/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/deepnote/deepnote/graph/badge.svg?token=7DHBMXZS28)](https://codecov.io/gh/deepnote/deepnote)
 
-[Website](https://deepnote.com/?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) • [Docs](https://deepnote.com/docs?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) • [Changelog](https://deepnote.com/changelog?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) • [X](https://x.com/DeepnoteHQ) • [Examples](https://deepnote.com/explore?utm_source=github&utm_medium=github&utm_campaign=github&utm_content=readme_main) • [Community](https://github.com/deepnote/deepnote/discussions)
-
 </div>
 
-Deepnote is an advanced, AI-powered alternative to Jupyter, offering a sleek UI, new features, and native data integrations. It’s used by over 500,000 data professionals at leading companies globally.
+<div align="center">
+  <h1>Deepnote is a data notebook for the AI era</h1>
+</div>
 
 Get started with Deepnote in seconds:
 
@@ -19,9 +20,7 @@ npx @deepnote/convert notebook.ipynb # This will convert the notebook and create
 ```
 ---
 
-<br />
-<br />
-<br />
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 Then open your `.deepnote` file in [VS Code](https://marketplace.visualstudio.com/items?itemName=Deepnote.vscode-deepnote), [Cursor](https://open-vsx.org/extension/Deepnote/vscode-deepnote), [Windsurf](https://open-vsx.org/extension/Deepnote/vscode-deepnote), or [JupyterLab](https://pypi.org/project/jupyterlab-deepnote/)!
 
